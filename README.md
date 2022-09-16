@@ -1,6 +1,6 @@
 # Projeto Android
 
->Projeto construído no evento no curso de HTML e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com).
+>Projeto construído no curso de HTML e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com).
 
 [🔗 Clique aqui para acessar](https://fabiiano.github.io/projeto-android/)
 
